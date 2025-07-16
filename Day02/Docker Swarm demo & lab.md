@@ -67,7 +67,8 @@ services:
 # Deploy stack 
 docker stack deploy -c docker-compose.yml mystack 
 # Monitor 
-docker stack ls docker stack services mystack 
+docker stack ls
+docker stack services mystack 
 docker stack ps mystack
 ```
 
