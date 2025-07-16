@@ -6,7 +6,7 @@
 
 ```bash
 # Initialize Swarm on Manager Node
-docker swarm init
+docker swarm init <manager_ip>
 
 # Get join token for workers
 docker swarm join-token worker
