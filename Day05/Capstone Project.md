@@ -1,4 +1,6 @@
-# Capstone Project: End-to-End Dockerized CI/CD Pipeline
+# Capstone Project:
+
+## 1. End-to-End Dockerized CI/CD Pipeline
 
 Design and implement a complete deployment pipeline for containerized applications using Docker. The project emphasizes 
 
@@ -21,3 +23,5 @@ Design and implement a complete deployment pipeline for containerized applicatio
 3. It integrates CI/CD tools to ensure continuous integration and delivery. 
 
 4. Participants will review real-world deployment issues, apply troubleshooting techniques, and build a functional pipeline from scratch in a hands-on lab environment.
+
+## 2. Create a simple application like flask-message app (Docker compose)and make it scalable in docker swarm using docker playground.
